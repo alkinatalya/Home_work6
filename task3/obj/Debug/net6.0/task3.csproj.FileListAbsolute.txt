@@ -1,0 +1,15 @@
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\bin\Debug\net6.0\task3.exe
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\bin\Debug\net6.0\task3.deps.json
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\bin\Debug\net6.0\task3.dll
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\bin\Debug\net6.0\task3.pdb
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.dll
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\refint\task3.dll
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.pdb
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+C:\Users\semiya\Desktop\обучение наташа\Знакомства с языками программ\Урок 6 Дз\task3\obj\Debug\net6.0\ref\task3.dll
