@@ -1,27 +1,18 @@
-﻿
-int Prompt(string message)
+﻿/*Напишите программу, которая найдёт точку пересечения двух прямых,
+ заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1,
+  k1, b2 и k2 задаются пользователем.
+b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)*/
+double Prompt(string message)
 {
     System.Console.Write(message);
-    string strValue;
-    strValue = Console.ReadLine() ?? "0";
-    int value = int.Parse(strValue);
-    return value;
+    return Convert.ToInt32(Console.ReadLine());
 }
-int firstValue = Prompt("Введите первое число >");
-int secondValue = Prompt("Введите второе число >");
-int thirdValue = Prompt("Введите третье число >");
+double k1 = Prompt("Введите k1 >");
+double k2 = Prompt("Введите k2 >");
+double b1 = Prompt("Введите b1 >");
+double b2 = Prompt("Введите b2 >");
+double x = (-b2 + b1)/(-k1 + k2);
+double y = (k2*x+b2);
 
-int result = firstValue;
 
-if (secondValue > result)
-{
-    result = secondValue;
-}
-if (thirdValue > result)
-{
-    result = thirdValue;
-}
-
-System.Console.Write($" {result},");
-
- 
+System.Console.WriteLine($"X> {x}, Y>{y}");
